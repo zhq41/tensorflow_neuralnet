@@ -24,3 +24,9 @@ Neural Network LV 3
 
 More Example
 - Neuralnet for faceRecogntion
+
+
+References :
+- https://github.com/aymericdamien/TensorFlow-Examples
+- Faussets
+- Engelbert 2007
