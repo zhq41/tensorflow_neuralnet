@@ -3,7 +3,7 @@ NN model machine learning using tensorflow
 
 
 Introduction
-- how to use activation function  [done]
+- <a href="https://github.com/zhq41/tensorflow_neuralnet/blob/master/activation_function.py">how to use activation function</a>
 - create bias
 
 Neural Network LV 1
