@@ -27,6 +27,7 @@ More Example
 
 
 References :
-- https://github.com/aymericdamien/TensorFlow-Examples
-- Faussets
-- Engelbert 2007
+- [example tensorflow nn](https://github.com/aymericdamien/TensorFlow-Examples)
+- [readme cool](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+- [Faussets : Neural network reference](https://www.amazon.com/Fundamentals-Neural-Networks-Architectures-Applications/dp/0133341860)
+- [Engelbert 2007 : computational intelligence](https://www.amazon.com/Computational-Intelligence-Introduction-Andries-Engelbrecht/dp/0470035617)
